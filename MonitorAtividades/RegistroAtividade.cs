@@ -2,10 +2,10 @@ namespace MonitorAtividades
 {
     public class RegistroAtividade
     {
-        public string Aplicacao { get; set; }
-        public string Titulo { get; set; }
-        public DateTime Inicio { get; set; }
-        public int Segundos { get; set; }
+        public string Aplicacao { get; private set; }
+        public string Titulo { get; private set; }
+        public DateTime Inicio { get; private set; }
+        public int Segundos { get; private set; }
 
         public RegistroAtividade(string aplicacao, string titulo)
         {
@@ -13,6 +13,16 @@ namespace MonitorAtividades
             Titulo = titulo;
             Inicio = DateTime.Now;
             Segundos = 0;
+        }
+
+        public void AdicionarSegundo()
+        {
+            Segundos++;
+        }
+
+        public bool EhMesmaJanela(string aplicacao, string titulo)
+        {
+            return Aplicacao == aplicacao && Titulo == titulo;
         }
 
         public string GerarLinhaLog()
