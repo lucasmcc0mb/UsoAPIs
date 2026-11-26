@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hPzYdRdPU4=",
+  "success": true,
+  "projectFilePath": "/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/MonitorAtividades.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucasmccomb/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/lucasmccomb/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.30/microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "/Users/lucasmccomb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/lucasmccomb/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.30/microsoft.netcore.app.host.osx-arm64.8.0.30.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "projectPath": "/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/MonitorAtividades.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/MonitorAtividades.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

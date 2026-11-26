@@ -1,0 +1,15 @@
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/bin/Debug/net8.0-windows/MonitorAtividades
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/bin/Debug/net8.0-windows/MonitorAtividades.deps.json
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/bin/Debug/net8.0-windows/MonitorAtividades.runtimeconfig.json
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/bin/Debug/net8.0-windows/MonitorAtividades.dll
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/bin/Debug/net8.0-windows/MonitorAtividades.pdb
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.AssemblyInfoInputs.cache
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.AssemblyInfo.cs
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.csproj.CoreCompileInputs.cache
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.dll
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/refint/MonitorAtividades.dll
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.pdb
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.genruntimeconfig.cache
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/ref/MonitorAtividades.dll
+/Users/lucasmccomb/Downloads/UsoAPI/MonitorAtividades/obj/Debug/net8.0-windows/MonitorAtividades.sourcelink.json
